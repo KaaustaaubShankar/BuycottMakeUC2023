@@ -1,5 +1,3 @@
-# Shop With Purpose, Buycott For Change
-
 
 # Buycott: An App for Impactful Consumer Choices
 
